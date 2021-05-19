@@ -1,0 +1,25 @@
+#button3d {
+  background-color: #3486c0;
+  color: white;
+  border-radius: 6px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-bottom: solid 5px #1f5275;
+}
+
+#button3d:hover {
+  background-color: #3fa1e8;
+  border-bottom: none;
+}
+
+.button3ddiv {
+  width: auto;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}

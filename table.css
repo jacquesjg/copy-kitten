@@ -1,0 +1,66 @@
+.table-all {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  font-size: 20pt;
+}
+#row-2 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#cell-1 {
+  padding: 2px;
+  border-bottom: solid 2px;
+  border-right: solid 2px;
+}
+
+#cell-2 {
+  padding: 2px;
+  border: solid 2px;
+  border-top: none;
+}
+
+#cell-3 {
+  padding: 2px;
+  border-left: solid 2px;
+  border-bottom: solid 2px;
+}
+
+#cell-4 {
+  padding: 2px;
+  border: solid 2px;
+  border-left: none;
+}
+
+#cell-5 {
+  padding: 2px;
+  border: solid 2px;
+}
+
+#cell-6 {
+  padding: 2px;
+  border: solid 2px;
+  border-right: none;
+}
+
+#cell-7 {
+  padding: 2px;
+  border: solid 2px;
+  border-bottom: none;
+  border-left: none;
+}
+
+#cell-8 {
+  padding: 2px;
+  border: solid 2px;
+  border-bottom: none;
+}
+
+#cell-9 {
+  padding: 2px;
+  border: solid 2px;
+  border-bottom: none;
+  border-right: none;
+}
